@@ -1,2 +1,2 @@
 # Java-FullStack
-Proyecto Creación Tienda Online mediante el Framework Angular.
+Proyecto Tienda Online mediante el Framework Angular.
